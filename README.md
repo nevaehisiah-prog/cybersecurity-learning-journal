@@ -15,4 +15,5 @@ A brief introduction to file permissions & switching users
 A summary paragraph of the important root directories on a Ubuntu Linux install and how we may be able to use the data stored within these.
   - Notes: Continuing my Linux journey with part 2
 - How website work (TryHackMe) - Completed 02/10/2025
-  - Skills Learned: how websites are created (HTML, JAVA) and will be introduced to some basic security issues (Sensitive data exposure, HTML Injection). - Notes: To exploit a website, you first need to know how they are created.
+  - Skills Learned: how websites are created (HTML, JAVA) and will be introduced to some basic security issues (Sensitive data exposure, HTML Injection).
+  - Notes: To exploit a website, you first need to know how they are created.
